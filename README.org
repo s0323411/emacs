@@ -1,0 +1,3 @@
+* emacs
+my emacs setup
+這是我在使用的 Emacs 設定檔案，怕會遺失所以上傳到網路上。
