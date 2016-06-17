@@ -1,5 +1,7 @@
 * emacs
 
-這是我在使用的 Emacs 設定檔案，怕會遺失所以上傳到網路上。\\
-.emacs 放在家目錄 ~/\\
-其他*.el 放在 ~/.emacs.d/Plugins 資料夾\\
+這是我在使用的 Emacs 設定檔案，怕會遺失所以上傳到網路上。
+
+.emacs 放在家目錄 ~/
+
+其他*.el 放在 ~/.emacs.d/Plugins 資料夾
