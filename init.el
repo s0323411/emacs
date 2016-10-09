@@ -74,6 +74,8 @@
 (tabbar-mode 1)
 ;; (require 'tabbar-tweak)
 
+(setq truncate-partial-width-windows nil) ;; 斷行設定 https://letoh.wordpress.com/2009/02/12/line-wrap-in-emacs/
+
 (setq inhibit-startup-message t);關閉起動時閃屏
 
 (setq visible-bell t);關閉出錯時的提示聲
