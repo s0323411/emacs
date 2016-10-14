@@ -67,6 +67,21 @@
 ;; |  |_)  |  /  _____  \  .----)   |   |  |____    .----)   |   |  |____     |  |     |  `--'  | |  |      
 ;; |______/  /__/     \__\ |_______/    |_______|   |_______/    |_______|    |__|      \______/  | _|
 
+;; 設定基本資料
+(setq user-full-name "SìhSèngiǔ")
+(setq user-mail-address "sihsengiu@protonmail.com")
+
+;; 設置焦點光標為豎線
+(setq-default cursor-type 'bar)
+;; 設置光標為方塊（原始設定）
+;; (setq-default cursor-type 'box)
+
+;; (setq mouse-drag-copy-region t)   ;; 自動複製 Copy 滑鼠選中的文本
+
+(setq org-hide-emphasis-markers t)  ;; 讓 org 的輕語言標記直接顯示，不在詞組旁邊顯示 / = * 等字元
+
+(set-locale-environment "utf-8") ;; 設定預設 UTF-8
+
 ;;;; ================
 ;;;; tabbar-mode
 ;;;; ================
